@@ -1,2 +1,2 @@
-# basic typescript demo with vs code
+# Basic typescript demo with vs code
 
